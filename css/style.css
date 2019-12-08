@@ -1,0 +1,6 @@
+.page-container{
+	background-image: url("../images/plane.jpg");
+}
+.main-content{
+	background-color:rgba(255,255,255,0.5) !important;
+}
